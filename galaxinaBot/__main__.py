@@ -87,7 +87,7 @@ buttons = [
     [
         InlineKeyboardButton(text="🔥Dᴇᴠ", url=f"https://t.me/shivamdemon"),
         InlineKeyboardButton(
-            text="ᴠᴄ ᴘʟᴀʏᴇʀ", url=f"https://telegra.ph/𝗡𝗶𝘁𝗿𝗶𝗰𝗫𝗱-09-29"
+            text="ᴠᴄ ᴘʟᴀʏᴇʀ", url=f"https://telegra.ph/𝐒𝟒𝐒𝐇𝐈𝐕-𝐗𝐃--𝙸-𝐀𝔪-E-𝗠𝔬ℕ𓂸-10-16"
         ),
     ],
     [
